@@ -106,7 +106,7 @@ msgstr ""
 
 #: luasrc/controller/kcptun.lua:15
 msgid "Kcptun Client"
-msgstr "Kcptun 客户端"
+msgstr "Kcptun客户端"
 
 #: luasrc/model/cbi/kcptun/servers-detail.lua:63
 msgid "Key"
